@@ -1,0 +1,15 @@
+language: python
+python:
+  - "3.11"
+
+install:
+  - pip install tkinter
+  - pip install socket
+  - pip install threading
+  - pip install json
+  - pip install os
+  - pip install datetime
+  - pip install sys
+  - pip install pyaudio
+  - pip install pillow
+  - pip install wave
